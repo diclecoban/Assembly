@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\pe\simulation\modelsim
+vAluModule
+!i10b 1
+!s100 QUfT3VkBkiTTifWDN41Gl1
+Ig:n4oJQfJ`h5FhbPTL<;S0
+VTMaJe6W2G;`TKFf?VbaeE1
+Z1 dC:\altera\pe\simulation\modelsim
+w1734594225
+8C:/altera/pe/AluModule.v
+FC:/altera/pe/AluModule.v
+L0 2
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1734594825.315000
+!s107 C:/altera/pe/AluModule.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/pe|C:/altera/pe/AluModule.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+C:/altera/pe -O0
+n@alu@module
